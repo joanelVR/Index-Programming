@@ -9,6 +9,7 @@
   * It display a prompt asking the user what word they would like to search for as well as displaying an initial text message giving the number of lines in the file, total number of words and total number of unique words ignoring case. 
   * After typing a word at the prompt your program will display the line numbers for all of the lines in the file (6 per line in formatted columns) that contain that particular word. 
   * This process continues as long as the user chooses.
+
 <a href="http://imgbox.com/NxUmkgIL" target="_blank"><img src="https://thumbs.imgbox.com/fe/90/NxUmkgIL_t.png" alt="image host"/></a>
 # __Getting Started__
 ##### For the other files of this program, please email me at joanel.vasquez1520@gmail.com explaning why you need the program. Put the name of the program in the subject and GITHUB. 
